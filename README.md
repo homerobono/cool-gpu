@@ -4,7 +4,7 @@ A script hack for GPU fan control on headless GPU nodes
 
 ## How to Use
 
-Check the original [project document]() for further details on steps 1 and 2.
+Check the original [project document](https://github.com/homerobono/cool-gpu/blob/e179cb834b8556228c97d820ed08dce10e3ab5e7/Nvidia%20GPU%20Coolness%20-%20Homepage%20of%20Axel%20Kohlmeyer.pdf) for further details on steps 1 and 2.
 
 0. Generate the dfp-edid.bin file through the NVIDIA Settings panel button 'Acquire EDID'
 
@@ -26,4 +26,4 @@ GPU default state, e.g.:
     cool_gpu            set fan to a temperature dependent value
 ```
 
-This was based on [Axel Kohlmayer](https://sites.google.com/site/akohlmey/welcome-to-my-homepage)'s original work taken from his homepage a while ago. The project full description is included on the PDF file.
+This was based on [Axel Kohlmayer](https://sites.google.com/site/akohlmey/welcome-to-my-homepage)'s original work taken from his homepage a while ago. The project full description is included on the PDF.
